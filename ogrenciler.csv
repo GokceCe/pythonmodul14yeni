@@ -1,0 +1,51 @@
+sorgu,isim,sehir,bolum,puan,numara,cinsiyet
+1,Ahmet,İstanbul,Bilgisayar Mühendisliği,90,1001,Erkek
+2,Ayşe,Ankara,Makine Mühendisliği,85,1002,Kadın
+3,Mehmet,İzmir,Elektrik Elektronik Mühendisliği,,1003,Erkek
+4,Elif,Bursa,Kimya Mühendisliği,88,1004,Kadın
+5,Burak,İstanbul,İnşaat Mühendisliği,79,1005,Erkek
+6,Zeynep,Ankara,Endüstri Mühendisliği,91,1006,Kadın
+7,Can,Antalya,Yazılım Mühendisliği,87,1007,Erkek
+8,Duygu,Konya,İşletme,83,1008,Kadın
+9,Okan,Samsun,Elektrik Mühendisliği,86,1009,Erkek
+10,Aylin,Kayseri,Matematik,93,1010,Kadın
+11,Cengiz,İzmir,Kimya Mühendisliği,-75,1011,Erkek
+12,Gül,İstanbul,İç Mimar,84,1012,Kadın
+13,Halil,Bursa,İnşaat Mühendisliği,,1013,Erkek
+14,Merve,Trabzon,Bilgisayar Mühendisliği,95,1014,Kadın
+15,Ali,Eskişehir,Elektrik Elektronik Mühendisliği,88,1015,Erkek
+16,Ayça,Adana,Endüstri Mühendisliği,82,1016,Kadın
+17,Kemal,İstanbul,Makine Mühendisliği,-2,1017,Erkek
+18,Serap,İzmir,Yazılım Mühendisliği,90,1018,Kadın
+19,Fatih,Ankara,İşletme,80,1019,Erkek
+20,İrem,Konya,Elektrik Mühendisliği,85,1020,Kadın
+21,Salih,Antalya,Matematik,91,1021,Erkek
+22,Büşra,Samsun,Kimya Mühendisliği,83,1022,Kadın
+23,Hakan,Kayseri,Bilgisayar Mühendisliği,,1023,Erkek
+24,Dilan,İstanbul,İnşaat Mühendisliği,86,1024,Kadın
+25,Onur,Bursa,Endüstri Mühendisliği,89,1025,Erkek
+26,Cansu,Ankara,Elektrik Elektronik Mühendisliği,80,1026,Kadın
+27,Kaan,İzmir,Yazılım Mühendisliği,87,1027,Erkek
+28,Funda,Trabzon,İşletme,78,1028,Kadın
+29,Berk,İstanbul,Matematik,93,1029,Erkek
+30,Melek,Eskişehir,Kimya Mühendisliği,85,1030,Kadın
+31,Veli,Konya,İnşaat Mühendisliği,79,1031,Erkek
+32,Ece,Antalya,Endüstri Mühendisliği,92,1032,Kadın
+33,Kadir,İzmir,Elektrik Mühendisliği,88,1033,Erkek
+34,Özge,İstanbul,Yazılım Mühendisliği,90,1034,Kadın
+35,Aydın,Bursa,İşletme,84,1035,Erkek
+36,Şirin,Kayseri,Matematik,87,1036,Kadın
+37,Cem,Ankara,Kimya Mühendisliği,91,1037,Erkek
+38,Nihan,İzmir,İnşaat Mühendisliği,90,1038,Kadın
+39,Haluk,İstanbul,Endüstri Mühendisliği,92,1039,Erkek
+40,Selin,Antalya,Elektrik Elektronik Mühendisliği,86,1040,Kadın
+41,Canan,Eskişehir,Yazılım Mühendisliği,93,1041,Kadın
+42,Alper,Konya,İşletme,84,1042,Erkek
+43,Gökhan,Samsun,Matematik,79,1043,Erkek
+44,Zeynep,Kayseri,Bilgisayar Mühendisliği,82,1044,Kadın
+45,Mert,Trabzon,Elektrik Mühendisliği,91,1045,Erkek
+46,Hülya,İstanbul,Kimya Mühendisliği,88,1046,Kadın
+47,Tamer,İzmir,İnşaat Mühendisliği,85,1047,Erkek
+48,Yasemin,Antalya,Endüstri Mühendisliği,83,1048,Kadın
+49,Hüsamettin,Ankara,Yazılım Mühendisliği,87,1049,Erkek
+50,Elif,İstanbul,İşletme,90,1050,Kadın
